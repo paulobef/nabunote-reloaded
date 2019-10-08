@@ -1,0 +1,9 @@
+.editable {
+  max-width: 760px;
+  margin: auto;
+  margin-top: 10rem;
+}
+
+.no-focus-outline:focus {
+  outline: none;
+}
