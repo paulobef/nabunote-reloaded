@@ -1,6 +1,6 @@
-# empty-project
+# Nabunote Reloaded
 
-Empty project.
+A Rich Text Editor using ReactJS, medium-editor and emoji-mart on the Front End. Bundled with Parcel
 
 ## Building and running on localhost
 
@@ -29,4 +29,3 @@ Open the file `dist/index.html` in your browser
 ## Credits
 
 Made with [createapp.dev](https://createapp.dev/)
-
