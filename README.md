@@ -1,6 +1,12 @@
 # Nabunote Reloaded
 
-A Rich Text Editor using ReactJS, medium-editor and emoji-mart on the Front End. Bundled with Parcel
+A Rich Text Editor using ReactJS, medium-editor and emoji-mart on the Front End. Bundled with Parcel.
+
+Features:
+*Inline formatting with medium-editor
+*Custom medium-editor button for opening emoji-mart plugin and adding emojis (+ a shortcut for opening emoji-mart)
+*Random title placeholder with emojis
+
 
 ## Building and running on localhost
 
@@ -14,12 +20,6 @@ To run in hot module reloading mode:
 
 ```sh
 npm start
-```
-
-To create a production build:
-
-```sh
-npm run build-prod
 ```
 
 ## Running
